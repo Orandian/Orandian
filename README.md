@@ -1,6 +1,3 @@
-Yan Naing Htwe
-===============================
-
 Software Engineer
 -----------------
 
