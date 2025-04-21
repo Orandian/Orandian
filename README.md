@@ -1,4 +1,4 @@
 Software Engineer
 -----------------
 
-A Guy who loves programming and developing software systems.
+A normal guy who loves programming and developing software systems.
